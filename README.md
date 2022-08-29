@@ -59,7 +59,7 @@ Always focus on good friendship.
   <img alt="Highshot-rk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=highshot-rk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionated business partner;Experienced nodejs frontend leader;Senior   backend developer;" alt="Senior backend, frontend lead developer and passionated business partner" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionated business partner;Experienced nodejs frontend leader;Senior   backend developer;"/>
 </p>
 <h1 align="center">🤲</h1>
 <p align="center">
