@@ -51,10 +51,7 @@ Always focus on good friendship.
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=highshot-rk&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
-<p align = "center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiptoChakrabarty&theme=dark&count_private=true&theme=radical)](https://github.com/DiptoChakrabarty)
-![trophy](https://github-profile-trophy.vercel.app/?username=DiptoChakrabarty&theme=onestar&no-frame=true&column=3&row=2&)
-</p>
 <p align="center">
   <img alt="Highshot-rk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=highshot-rk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
