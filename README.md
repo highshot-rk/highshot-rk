@@ -51,9 +51,6 @@ Always focus on good friendship.
 </p>
 
 <p align="center">
-  <img alt="Highshot-rk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=highshot-rk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
-<p align="center">
 🤲<a href="mailto:sagarn62020@gmail.com">Email to Sagar</a>
 </p>
 <p align="center">
