@@ -6,9 +6,9 @@ Adept at collaborative teamwork, leveraging strong communication skills to drive
 ### 🍯 Technical Stack
 - 💪 Ruby On Rails 𒑰 PostgreSQL 𒑰 RSpec 𒑰 Minitest
 - 🥇 React 𒑰 Vue 𒑰 Next.js 𒑰 Nuxt.js 𒑰 Redux 𒑰 Vuex 𒑰 Vuetify 𒑰 Figma 𒑰 Material UI
-- 🤗 IOS and Android developemtn with Flutter, ReactNative
-- 💰 Blockchain 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js
-- ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 Tailwind CSS
+- 🤗 IOS and Android development with Flutter, React Native
+- 💰 Blockchain 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js
+- ⚡ JavaScript 𒑰 Typescript 𒑰 HTML5 𒑰 CSS3 𒑰 Bootstrap 𒑰 Tailwind CSS
 - 🎒 NodeJS 𒑰 Express 𒑰 LoopBack
 - 🏹 python 𒑰 Django
 - 🌎 AWS 𒑰 Firebase 𒑰 Git 𒑰 CI/CD 𒑰 Slack 𒑰 Jira 𒑰 MySQL 𒑰 MongoDB 𒑰 MariaDB 𒑰 Redis 𒑰 GraphQL
