@@ -1,6 +1,6 @@
-## 🤗 Welcome! 🙋‍♂️ About Me
+## 🤗 Welcome! 🙋‍♂️ About Me (<a href="mailto:sagarn62020@gmail.com">Email to Sagar</a>)
 
-Dedicated senior <strong>Ruby on Rails & Next | Nuxt & Django & Flutter</strong> strong developer with a deep passion for innovative solutions. <br/>
+Dedicated senior <strong>Ruby on Rails & React | Vue & Django </strong> strong developer with a deep passion for innovative solutions. <br/>
 Adept at collaborative teamwork, leveraging strong communication skills to drive successful outcomes.
 
 ### 🍯 Technical Stack
@@ -10,7 +10,7 @@ Adept at collaborative teamwork, leveraging strong communication skills to drive
 - 💰 Blockchain 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js
 - ⚡ JavaScript 𒑰 Typescript 𒑰 HTML5 𒑰 CSS3 𒑰 Bootstrap 𒑰 Tailwind CSS
 - 🎒 NodeJS 𒑰 Express 𒑰 LoopBack
-- 🏹 python 𒑰 Django
+- 🏹 python 𒑰 Django 𒑰 C# 𒑰 .Net
 - 🌎 AWS 𒑰 Firebase 𒑰 Git 𒑰 CI/CD 𒑰 Slack 𒑰 Jira 𒑰 MySQL 𒑰 MongoDB 𒑰 MariaDB 𒑰 Redis 𒑰 GraphQL
 - 🚩 Docker 𒑰 Jenkins 𒑰 Test-Driven Development(TDD) 𒑰 Agile 𒑰 Scrum
 
