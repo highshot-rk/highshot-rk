@@ -1,6 +1,6 @@
 ## 🤗 Welcome! 🙋‍♂️ About Me (<a href="mailto:sagarn62020@gmail.com">Email to Sagar</a>)
 
-Dedicated senior <strong>Ruby on Rails & React | Vue & Django </strong> strong developer with a deep passion for innovative solutions. <br/>
+Dedicated senior <strong>Ruby on Rails & React | Vue & Django | .Net & Angular </strong> strong developer with a deep passion for innovative solutions. <br/>
 Adept at collaborative teamwork, leveraging strong communication skills to drive successful outcomes.
 
 ### 🍯 Technical Stack
