@@ -1,4 +1,4 @@
-## 🤗 Welcome! 🙋‍♂️ About Me (<a href="mailto:sagarn62020@gmail.com">Email to Sagar</a>)
+## 🤗 Welcome! 🙋‍♂️ About Me 
 
 Dedicated senior <strong>Ruby on Rails & React | Vue & Django | .Net & Angular </strong> strong developer with a deep passion for innovative solutions. <br/>
 Adept at collaborative teamwork, leveraging strong communication skills to drive successful outcomes.
@@ -24,7 +24,4 @@ Adept at collaborative teamwork, leveraging strong communication skills to drive
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=highshot-rk&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
-</p>
-<p align="center">
-🤲<a href="mailto:sagarn62020@gmail.com">Email to Sagar</a>
 </p>
