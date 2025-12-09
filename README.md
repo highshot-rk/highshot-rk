@@ -5,7 +5,8 @@ Adept at collaborative teamwork, leveraging strong communication skills to drive
 
 ### 🍯 Technical Stack
 - 💪 Ruby On Rails 𒑰 PostgreSQL 𒑰 RSpec 𒑰 Minitest
-- 🏹 python 𒑰 Django 𒑰 C# 𒑰 .Net
+- 💪 python 𒑰 Django 𒑰 C# 𒑰 .Net
+- 💪  ML 𒑰 AI
 - 🥇 React 𒑰 Vue 𒑰 Next.js 𒑰 Nuxt.js 𒑰 Redux 𒑰 Vuex 𒑰 Vuetify 𒑰 Figma 𒑰 Material UI
 - 🤗 IOS and Android development with Flutter, React Native
 - 💰 Blockchain 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js
@@ -15,7 +16,6 @@ Adept at collaborative teamwork, leveraging strong communication skills to drive
 - 🚩 Docker 𒑰 Jenkins 𒑰 Test-Driven Development(TDD) 𒑰 Agile 𒑰 Scrum
 
 ### 🌱 What I'm boosting
-- 🛠  ML 𒑰 AI
 - 🎩 DevOps
 
 `Reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between!`
