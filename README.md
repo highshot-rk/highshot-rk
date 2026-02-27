@@ -1,17 +1,15 @@
 ## 🤗 Welcome! 🙋‍♂️ About Me 
 
-Dedicated senior <strong>Ruby on Rails & React | Vue & Django | .Net & Angular </strong> strong developer with a deep passion for innovative solutions. <br/>
+Dedicated senior <strong>Python & FastAPI & AI/ML/RAG/LLM | Typescript & React & Vue</strong> strong developer with a deep passion for innovative solutions. <br/>
 Adept at collaborative teamwork, leveraging strong communication skills to drive successful outcomes.
 
 ### 🍯 Technical Stack
-- 💪 Ruby On Rails 𒑰 PostgreSQL 𒑰 RSpec 𒑰 Minitest
-- 💪 python 𒑰 Django 𒑰 C# 𒑰 .Net
-- 💪  ML 𒑰 AI
+- 💪 Ruby On Rails 𒑰 Stimulus & Turbo & Hotwire 𒑰 RSpec
+- 💪 python 𒑰 Django 𒑰 FastAPI
+- 💪  ML 𒑰 AI 𒑰 LLM 𒑰 RAG
 - 🥇 React 𒑰 Vue 𒑰 Next.js 𒑰 Nuxt.js 𒑰 Redux 𒑰 Vuex 𒑰 Vuetify 𒑰 Figma 𒑰 Material UI
-- 🤗 IOS and Android development with Flutter, React Native
 - 💰 Blockchain 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js
 - ⚡ JavaScript 𒑰 Typescript 𒑰 HTML5 𒑰 CSS3 𒑰 Bootstrap 𒑰 Tailwind CSS
-- 🎒 NodeJS 𒑰 Express 𒑰 LoopBack
 - 🌎 AWS 𒑰 Firebase 𒑰 Git 𒑰 CI/CD 𒑰 Slack 𒑰 Jira 𒑰 MySQL 𒑰 MongoDB 𒑰 MariaDB 𒑰 Redis 𒑰 GraphQL
 - 🚩 Docker 𒑰 Jenkins 𒑰 Test-Driven Development(TDD) 𒑰 Agile 𒑰 Scrum
 
