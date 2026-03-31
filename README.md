@@ -4,10 +4,10 @@ Dedicated senior <strong>Python & FastAPI & AI/ML/RAG/LLM | Typescript & React &
 Adept at collaborative teamwork, leveraging strong communication skills to drive successful outcomes.
 
 ### 🍯 Technical Stack
-- 💪 Ruby On Rails 𒑰 Stimulus & Turbo & Hotwire 𒑰 RSpec
 - 💪 python 𒑰 Django 𒑰 FastAPI
 - 💪  ML 𒑰 AI 𒑰 LLM 𒑰 RAG
 - 🥇 React 𒑰 Vue 𒑰 Next.js 𒑰 Nuxt.js 𒑰 Redux 𒑰 Vuex 𒑰 Vuetify 𒑰 Figma 𒑰 Material UI
+- 💪 Ruby On Rails 𒑰 Stimulus & Turbo & Hotwire 𒑰 RSpec
 - 💰 Blockchain 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js
 - ⚡ JavaScript 𒑰 Typescript 𒑰 HTML5 𒑰 CSS3 𒑰 Bootstrap 𒑰 Tailwind CSS
 - 🌎 AWS 𒑰 Firebase 𒑰 Git 𒑰 CI/CD 𒑰 Slack 𒑰 Jira 𒑰 MySQL 𒑰 MongoDB 𒑰 MariaDB 𒑰 Redis 𒑰 GraphQL
