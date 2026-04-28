@@ -10,6 +10,7 @@ Adept at collaborative teamwork, leveraging strong communication skills to drive
 - 💪 Ruby On Rails 𒑰 Stimulus & Turbo & Hotwire 𒑰 RSpec
 - 💰 Blockchain 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js
 - ⚡ JavaScript 𒑰 Typescript 𒑰 HTML5 𒑰 CSS3 𒑰 Bootstrap 𒑰 Tailwind CSS
+- 💪 react Native, Dart, Flutter
 - 🌎 AWS 𒑰 Firebase 𒑰 Git 𒑰 CI/CD 𒑰 Slack 𒑰 Jira 𒑰 MySQL 𒑰 MongoDB 𒑰 MariaDB 𒑰 Redis 𒑰 GraphQL
 - 🚩 Docker 𒑰 Jenkins 𒑰 Test-Driven Development(TDD) 𒑰 Agile 𒑰 Scrum
 
